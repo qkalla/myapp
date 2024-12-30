@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "310353210510",
+    "project_id": "dlvroy",
+    "storage_bucket": "dlvroy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310353210510:android:5c31131981d4d9ce0aaddf",
+        "android_client_info": {
+          "package_name": "com.example.cosmeticapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy9cMWy-moACfIf29UphIk_SvfF8FC4fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310353210510:android:289addce04ccb0810aaddf",
+        "android_client_info": {
+          "package_name": "com.example.dlvroy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy9cMWy-moACfIf29UphIk_SvfF8FC4fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
